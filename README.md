@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working with Java / Spring-boot
-- 🌱 I’m currently learning React and Docker
+- 🔭 I’m currently working with .NET / C#
+- 🌱 I’m currently learning AWS and Docker
 
 - ⚡ Technologies: Java <code><img height="20" src="https://user-images.githubusercontent.com/3722556/89048643-1c918580-d31e-11ea-8260-b78cdc1960f8.png"></code>, .NET <code><img height="20" src="https://user-images.githubusercontent.com/59988262/88458498-ca0b2180-ce64-11ea-8169-05e66d1bf353.png"></code>, SQL <code><img height="20" src="https://user-images.githubusercontent.com/3722556/89064732-87e85100-d338-11ea-8750-1ee099985256.png"></code>
 
